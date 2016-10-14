@@ -88,3 +88,5 @@ TK Add intro here.
 ## Git LFS
 
 ## Integração Contínua ?
+
+Alguém inseriu dados no remoto.
