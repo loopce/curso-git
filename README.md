@@ -34,6 +34,12 @@
 
 ## Diff
 
+## Checkout
+
+## Branches
+
+* checkout -b
+
 ## Distribuído
 
 * Cópia local
@@ -47,10 +53,6 @@
 ## Fetch
 
 ## Pull
-
-## Branches
-
-## Checkout
 
 ### HEAD
 
