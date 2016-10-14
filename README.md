@@ -1,5 +1,7 @@
 # Git: a swift and effective introduction
 
+TK Add intro here.
+
 ## O que é o Git?
 
 * Pq existe, problema, motivação.
