@@ -40,6 +40,8 @@
 
 * checkout -b
 
+## Amend commit
+
 ## Distribuído
 
 * Cópia local
