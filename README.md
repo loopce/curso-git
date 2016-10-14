@@ -27,6 +27,8 @@
 ## Commit
 
 * Mensagens de commit
+* Título da mensagem de commit
+* Hash do commit
 
 ## Log
 
